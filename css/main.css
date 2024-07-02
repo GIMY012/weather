@@ -1,0 +1,21 @@
+main{
+  background-image: url(../Images/banner.png);
+  background-repeat: no-repeat;
+}
+.container{
+  width: 70% !important;
+}
+.height-315{
+  height: 315px;
+}
+::placeholder {
+  color: #596f75 !important;
+
+}
+
+body{
+  background-color: #1e202b;
+}
+p.h1{
+  font-size: 4rem;
+}
